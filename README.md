@@ -3,7 +3,7 @@ UdacityDownloader
 
 [**Udacity**](http://www.udacity.com) provides great free courses but the download package is only 480p and does not include exercise. So I create this app to help garthering all the course's videos include exercise lecture/answer videos.
 
-After fetched course info from Udacity, you can pass a single video or a full lesson/course to [**Internet download Manager**](http://www.internetdownloadmanager.com) to download. If you want to download the whole course, the videos will be categorized into lesson folders.
+After fetched course info from Udacity, you can pass a single video or a full lesson/course to [**Internet Download Manager**](http://www.internetdownloadmanager.com) to download. If you want to download the whole course, the videos will be categorized into lesson folders.
 
 Screenshot:
 

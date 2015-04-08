@@ -11,7 +11,7 @@ Screenshot:
 
 ## How to build ##
 - Follow this [**SO question**](http://stackoverflow.com/questions/9150466/idm-internet-download-manager-api-using-c) to import IDManLib.dll to your system COM in prior to build the app.
-- Build the app using Visual Studio (2013 preferred).
+- Compile the source using Visual Studio (2013 preferred).
 
 ## How to use ##
 - Get course info from course URL.
